@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Question</string>
+    <string name="start">START</string>
+    <string name="begin">Начать</string>
+    <string name="accept">принять</string>
+    <string name="back">вернуться в начало</string>
+    <string name="answer">ответ</string>
+    <string name="quality">Количество правильных ответов</string>
+</resources>
