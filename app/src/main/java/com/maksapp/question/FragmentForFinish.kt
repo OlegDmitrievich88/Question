@@ -23,7 +23,7 @@ private lateinit var binding: FragmentResultQuestionBinding
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         binding = FragmentResultQuestionBinding.inflate(inflater)
         return binding.root
 
